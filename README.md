@@ -1,4 +1,4 @@
-# 🧭 Desert Maps & Offline GPS | خرائط الصحراء الدليلة
+<img width="737" height="1600" alt="WhatsApp Image 2026-07-22 at 7 24 54 AM" src="https://github.com/user-attachments/assets/09da88e2-2c55-4185-b96c-ae78c33483a1" /># 🧭 Desert Maps & Offline GPS | خرائط الصحراء الدليلة
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.navigationgps.desert" target="_blank">
@@ -15,7 +15,7 @@
 
 ---
 
-## 📱 Project Overview | نبذة عن التطبيق
+## 📱 Project Overview 
 
 **خرائط الصحراء الدليلة** is a specialized Native Android navigation application designed for desert exploration, camping, hunting, and off-road trips across the Gulf region (Saudi Arabia, Kuwait, UAE, Qatar, Bahrain, Oman, Yemen, and Jordan).
 
@@ -23,7 +23,7 @@ The application provides accurate real-time GPS positioning, hardware compass na
 
 ---
 
-## 📸 App Screenshots | صور التطبيق
+## 📸 App Screenshots  
 
 <p align="center">
   <!-- يمكنك سحب صور التطبيق وإفلاتها مباشرة هنا في محرر جيت هاب مكان الصور الإفتراضية -->
@@ -31,7 +31,10 @@ The application provides accurate real-time GPS positioning, hardware compass na
 
 | Main Map & Compass | Navigation & Coordinates | Saved Waypoints |
 | :---: | :---: | :---: |
-| <img src="https://via.placeholder.com/250x500?text=Map+%26+Compass" width="250"/> | <img src="https://via.placeholder.com/250x500?text=Navigation" width="250"/> | <img src="https://via.placeholder.com/250x500?text=Waypoints" width="250"/> |
+| <img width="737" height="1600" alt="WhatsApp Image 2026-07-22 at 7 24 55 AM" src="https://github.com/user-attachments/assets/89605029-698d-414f-a7c4-111a9410eaa2" />
+ | <img width="737" height="1600" alt="WhatsApp Image 2026-07-22 at 7 24 54 AM" src="https://github.com/user-attachments/assets/ff596d14-5fd1-41cf-ae56-5c639604d2fd" />
+ | <img width="737" height="1600" alt="WhatsApp Image 2026-07-22 at 7 24 53 AM" src="https://github.com/user-attachments/assets/6626abc9-25f2-4daf-9033-7f88fef9fb39" />
+ |
 
 ---
 
