@@ -1,32 +1,52 @@
 # 🧭 Desert Maps & Offline GPS | خرائط الصحراء الدليلة
 
-![Android](https://img.shields.io/badge/Android-Native-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-100%25-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![GPS](https://img.shields.io/badge/Navigation-Offline_GPS-FF5722?style=for-the-badge)
-![Coverage](https://img.shields.io/badge/Region-GCC_%26_Middle_East-009688?style=for-the-badge)
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.navigationgps.desert" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Play-Get_it_on_Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Get it on Google Play"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-Native-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-100%25-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GPS-Offline_Navigation-FF5722?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Coverage-GCC_%26_Middle_East-009688?style=for-the-badge"/>
+</p>
 
 ---
 
-## 📱 Overview | نبذة عن التطبيق
+## 📱 Project Overview | نبذة عن التطبيق
 
-**خرائط الصحراء الدليلة (Desert Navigation & Offline GPS)** is a specialized Native Android navigation application crafted for desert explorers, camping enthusiasts, hunting trips, and off-road adventurers across the Gulf region (Saudi Arabia, Kuwait, UAE, Qatar, Bahrain, Oman, Yemen, and Jordan).
+**خرائط الصحراء الدليلة** is a specialized Native Android navigation application designed for desert exploration, camping, hunting, and off-road trips across the Gulf region (Saudi Arabia, Kuwait, UAE, Qatar, Bahrain, Oman, Yemen, and Jordan).
 
-The app relies on device hardware sensors and offline GPS positioning to provide high-accuracy coordinates, compass navigation, and point-saving capabilities without requiring an active internet connection.
+The application provides accurate real-time GPS positioning, hardware compass navigation, and waypoints management **completely offline**, ensuring safety and reliable guidance in remote open deserts without cellular coverage.
+
+---
+
+## 📸 App Screenshots | صور التطبيق
+
+<p align="center">
+  <!-- يمكنك سحب صور التطبيق وإفلاتها مباشرة هنا في محرر جيت هاب مكان الصور الإفتراضية -->
+</p>
+
+| Main Map & Compass | Navigation & Coordinates | Saved Waypoints |
+| :---: | :---: | :---: |
+| <img src="https://via.placeholder.com/250x500?text=Map+%26+Compass" width="250"/> | <img src="https://via.placeholder.com/250x500?text=Navigation" width="250"/> | <img src="https://via.placeholder.com/250x500?text=Waypoints" width="250"/> |
 
 ---
 
 ## ✨ Key Features | المميزات الرئيسية
 
-* 🛰️ **Offline GPS & Compass Navigation:** Reliable land navigation in open deserts without cellular/internet coverage.
-* 📍 **Precise Real-time Coordinates:** Instant location tracking with multi-format coordinate input and navigation.
-* 📌 **Waypoints Management:** Save favorite camping sites, landmarks (نفود، رياض، رجوم، أودية، فياض), and easily navigate back to them.
-* 📏 **Distance & Altitude Tracking:** Precise distance measurement between locations and accurate sea-level altitude display.
-* 🕋 **Qibla Finder:** Integrated direction finder using hardware sensors.
-* 🗺️ **Satellite Maps Integration:** Optional satellite mapping when internet connection is available.
+* 🛰️ **Offline GPS & Compass:** Fully functional land navigation without an active internet connection.
+* 📍 **Real-Time Coordinates:** High-accuracy location tracking with multi-format coordinate entry and direct navigation.
+* 📌 **Waypoints & Places Saved:** Save and categorize desert landmarks (نفود، رياض، رجوم، أودية، فياض) and navigate back smoothly.
+* 📏 **Distance & Altitude Tracking:** Precise distance measurement between points and exact sea-level altitude calculation.
+* 🕋 **Qibla Direction:** Built-in Qibla finder powered by device magnetometer sensors.
+* 🗺️ **Satellite View:** Optional online satellite mapping layer when internet is available.
 
 ---
 
-## 🛠️ Tech Stack & Libraries | التقنيات المستخدمة
+## 🛠️ Tech Stack | التقنيات المستخدمة
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
@@ -37,14 +57,17 @@ The app relies on device hardware sensors and offline GPS positioning to provide
 | :--- | :--- |
 | **Language** | Kotlin (100%) |
 | **Platform** | Native Android |
-| **Location Services** | Android Location API / Fused Location Provider |
-| **Hardware Integration** | Device Magnetometer, Accelerometer & Compass Sensors |
+| **Location Services** | Android Location API / Hardware Sensors |
+| **Hardware Integration** | Magnetometer, Accelerometer & Orientation Sensors |
 | **Build System** | Gradle (Kotlin DSL `.kts`) |
 
 ---
 
-## 🚀 How to Run
+## 📲 Download & Store Link
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/ahmed-magdy-gitt/Desert-Maps-Offline-GPS-App.git](https://github.com/ahmed-magdy-gitt/Desert-Maps-Offline-GPS-App.git)
+You can download the official live application directly from Google Play Store:  
+👉 **[خرائط الصحراء الدليلة on Google Play](https://play.google.com/store/apps/details?id=com.navigationgps.desert)**
+
+---
+
+<p align="center">Developed with ❤️ by <b>Ahmed Magdy</b> | Mobile & Android Engineer</p>
