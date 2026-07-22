@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardCornerRadius="15dp"
+    app:cardElevation="0dp"
+    app:cardBackgroundColor="#F8F8F4">
+
+<LinearLayout
+android:padding="20dp"
+android:orientation="vertical"
+android:layout_width="match_parent"
+android:layoutDirection="rtl"
+android:layout_height="wrap_content">
+<!-- ملاحظة: تم إزالة android:background من هنا ليتم التحكم فيه بواسطة CardView -->
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="إضافة موقع جديد"
+    android:textSize="20sp"
+    android:textStyle="bold"
+    android:textColor="#5B4630"
+    android:gravity="center"
+    android:layout_marginBottom="16dp"/>
+
+<EditText
+    android:id="@+id/editTextTitle"
+    android:hint="اسم الموقع"
+    android:inputType="text"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textColorHint="#A0876A"
+    android:textColor="#5B4630"
+    android:backgroundTint="#A0876A"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp"
+    android:layout_marginBottom="8dp"/>
+
+<CheckBox
+    android:id="@+id/checkBoxUseCurrentLocation"
+    android:text="استخدام الموقع الحالي"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:checked="true"
+    android:textColor="#5B4630"
+    android:buttonTint="#A0876A"
+    android:layout_marginBottom="8dp"/>
+
+<EditText
+    android:id="@+id/editTextLatitude"
+    android:hint="خط العرض"
+    android:inputType="numberDecimal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textColorHint="#A0876A"
+    android:textColor="#5B4630"
+    android:backgroundTint="#A0876A"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp"
+    android:layout_marginBottom="8dp" />
+
+<EditText
+    android:id="@+id/editTextLongitude"
+    android:hint="خط الطول"
+    android:inputType="numberDecimal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textColorHint="#A0876A"
+    android:textColor="#5B4630"
+    android:backgroundTint="#A0876A"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp"
+    android:layout_marginBottom="16dp" />
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="end">
+
+    <Button
+        android:id="@+id/btnCancel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="إلغاء"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:textColor="#A0876A" />
+
+    <Button
+        android:id="@+id/btnSave"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="حفظ"
+        android:textColor="#FFFFFF"
+        android:backgroundTint="#5B4630"
+        android:layout_marginStart="8dp" />
+</LinearLayout>
+
+</LinearLayout>
+    </androidx.cardview.widget.CardView>
