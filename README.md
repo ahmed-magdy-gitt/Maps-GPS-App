@@ -1,4 +1,4 @@
-<img width="737" height="1600" alt="WhatsApp Image 2026-07-22 at 7 24 54 AM" src="https://github.com/user-attachments/assets/09da88e2-2c55-4185-b96c-ae78c33483a1" /># 🧭 Desert Maps & Offline GPS | خرائط الصحراء الدليلة
+# 🧭 Desert Maps & Offline GPS | خرائط الصحراء الدليلة
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.navigationgps.desert" target="_blank">
@@ -31,10 +31,7 @@ The application provides accurate real-time GPS positioning, hardware compass na
 
 | Main Map & Compass | Navigation & Coordinates | Saved Waypoints |
 | :---: | :---: | :---: |
-| <img width="737" height="1600" alt="WhatsApp Image 2026-07-22 at 7 24 55 AM" src="https://github.com/user-attachments/assets/89605029-698d-414f-a7c4-111a9410eaa2" />
- | <img width="737" height="1600" alt="WhatsApp Image 2026-07-22 at 7 24 54 AM" src="https://github.com/user-attachments/assets/ff596d14-5fd1-41cf-ae56-5c639604d2fd" />
- | <img width="737" height="1600" alt="WhatsApp Image 2026-07-22 at 7 24 53 AM" src="https://github.com/user-attachments/assets/6626abc9-25f2-4daf-9033-7f88fef9fb39" />
- |
+|<img width="250" height="500" alt="WhatsApp Image 2026-07-22 at 7 24 55 AM" src="https://github.com/user-attachments/assets/89605029-698d-414f-a7c4-111a9410eaa2" />|<img width="250" height="500" alt="WhatsApp Image 2026-07-22 at 7 24 54 AM" src="https://github.com/user-attachments/assets/ff596d14-5fd1-41cf-ae56-5c639604d2fd" />| <img width="250" height="500" alt="WhatsApp Image 2026-07-22 at 7 24 53 AM" src="https://github.com/user-attachments/assets/6626abc9-25f2-4daf-9033-7f88fef9fb39" />|
 
 ---
 
