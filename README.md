@@ -35,7 +35,7 @@ The application provides accurate real-time GPS positioning, hardware compass na
 
 ---
 
-## ✨ Key Features | المميزات الرئيسية
+## ✨ Key Features 
 
 * 🛰️ **Offline GPS & Compass:** Fully functional land navigation without an active internet connection.
 * 📍 **Real-Time Coordinates:** High-accuracy location tracking with multi-format coordinate entry and direct navigation.
@@ -46,7 +46,7 @@ The application provides accurate real-time GPS positioning, hardware compass na
 
 ---
 
-## 🛠️ Tech Stack | التقنيات المستخدمة
+## 🛠️ Tech Stack 
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
