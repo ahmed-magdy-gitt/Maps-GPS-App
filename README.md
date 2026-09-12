@@ -22,11 +22,11 @@
 The application provides accurate real-time GPS positioning, hardware compass navigation, and waypoints management **completely offline**, ensuring safety and reliable guidance in remote open deserts without cellular coverage.
 
 ---
-## 📸 App Screenshots  
+## 📱 User Interface & Visual Showcase  
 
-| Main Map & Compass | Navigation & Coordinates | Saved Waypoints |
-| :---: | :---: | :---: |
-| <img width="250" height="500" alt="Main Map & Compass" src="https://github.com/user-attachments/assets/f3d46e43-4996-42c0-ab8f-40f21189516c" /> | <img width="250" height="500" alt="Navigation & Coordinates" src="https://github.com/user-attachments/assets/5f08cc3c-b3d0-4f1f-bb94-a6bee3f4d08e" /> | <img width="250" height="500" alt="Saved Waypoints" src="https://github.com/user-attachments/assets/d06c9534-91f4-47db-873d-d0a5d45f575d" /> |
+| Main Map & Compass | Navigation & Coordinates | Saved Waypoints | Offline Route Tracking |
+| :---: | :---: | :---: | :---: |
+| <img width="250" height="500" alt="Main Map & Compass" src="https://github.com/user-attachments/assets/f3d46e43-4996-42c0-ab8f-40f21189516c" /> | <img width="250" height="500" alt="Navigation & Coordinates" src="https://github.com/user-attachments/assets/5f08cc3c-b3d0-4f1f-bb94-a6bee3f4d08e" /> | <img width="250" height="500" alt="Saved Waypoints" src="https://github.com/user-attachments/assets/d06c9534-91f4-47db-873d-d0a5d45f575d" /> | <img width="250" height="500" alt="Offline Route Tracking" src="https://github.com/user-attachments/assets/9071bf9a-4ffb-4f40-9682-957bbd830835" /> |
 ---
 
 ## ✨ Key Features 
