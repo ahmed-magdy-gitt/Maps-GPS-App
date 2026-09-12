@@ -31,7 +31,10 @@ The application provides accurate real-time GPS positioning, hardware compass na
 
 | Main Map & Compass | Navigation & Coordinates | Saved Waypoints |
 | :---: | :---: | :---: |
-|<img width="250" height="500" alt="WhatsApp Image 2026-07-22 at 7 24 55 AM" src="https://github.com/user-attachments/assets/89605029-698d-414f-a7c4-111a9410eaa2" />|<img width="250" height="500" alt="WhatsApp Image 2026-07-22 at 7 24 54 AM" src="https://github.com/user-attachments/assets/ff596d14-5fd1-41cf-ae56-5c639604d2fd" />| <img width="250" height="500" alt="WhatsApp Image 2026-07-22 at 7 24 53 AM" src="https://github.com/user-attachments/assets/6626abc9-25f2-4daf-9033-7f88fef9fb39" />|
+|<img width="250" height="500" alt="WhatsApp Image 2026-07-22 at 7 24 55 AM" src=" <img width="137" height="296" alt="unnamed (1)" src="https://github.com/user-attachments/assets/f3d46e43-4996-42c0-ab8f-40f21189516c" />
+" />|<img width="250" height="500" alt="WhatsApp Image 2026-07-22 at 7 24 54 AM" src=" <img width="197" height="296" alt="unnamed (3)" src="https://github.com/user-attachments/assets/5f08cc3c-b3d0-4f1f-bb94-a6bee3f4d08e" />
+" />| <img width="250" height="500" alt="WhatsApp Image 2026-07-22 at 7 24 53 AM" src=" <img width="197" height="296" alt="unnamed (2)" src="https://github.com/user-attachments/assets/d06c9534-91f4-47db-873d-d0a5d45f575d" />
+" />|
 
 ---
 
