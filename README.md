@@ -1,9 +1,20 @@
-# 🧭 Desert Maps & Offline GPS | خرائط الصحراء الدليلة
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F4A261&center=false&vCenter=true&width=700&lines=Desert+Maps+%26+Offline+GPS;Offline+Topographic+Navigation+%2B+Waypoints;Real-Time+Tracking+%2B+Compass+HUD" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <i>A comprehensive offline desert navigation and topographic mapping application engineered for overland routing, tracking, and wilderness survival.</i>
+</p>
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.navigationgps.desert" target="_blank">
     <img src="https://img.shields.io/badge/Google_Play-Get_it_on_Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Get it on Google Play"/>
   </a>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GPS-Offline_Navigation-34A853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Maps-Topographic-E76F51?style=for-the-badge"/>
 </p>
 
 <p align="center">
